@@ -17,6 +17,7 @@
       <itunes:category text="Courses"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/smith.jpeg"/>
     <description><![CDATA[Introduction to Political Philosophy - A comprehensive study of the great works of political philosophy from Plato to Tocqueville. Unofficial archive for study.]]></description>
     <item>
       <title><![CDATA[1. Introduction: What is Political Philosophy?]]></title>
