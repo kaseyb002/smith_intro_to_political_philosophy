@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Introduction to Political Philosophy]]></title>
+    <link>https://github.com/kaseyb002/smith_intro_to_political_philosophy</link>
+    <atom:link href="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© 2025 Steven B. Smith (archival use). Non-commercial educational archive.</copyright>
+    <itunes:author><![CDATA[Steven B. Smith - archived by Kasey Baughan]]></itunes:author>
+    <itunes:owner>
+      <itunes:name><![CDATA[Kasey Baughan]]></itunes:name>
+      <itunes:email>kasey@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[Introduction to Political Philosophy - A comprehensive study of the great works of political philosophy from Plato to Tocqueville. Unofficial archive for study.]]></description>
+    <item>
+      <title><![CDATA[1. Introduction: What is Political Philosophy?]]></title>
+      <description><![CDATA[1. Introduction: What is Political Philosophy?]]></description>
+      <pubDate>Fri, 01 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">001_1_introduction_what_is_political_philosophy_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/001_1_introduction_what_is_political_philosophy_mp3.mp3" length="17802284" type="audio/mpeg"/>
+      <itunes:duration>00:37:05</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[2. Socratic Citizenship: Plato's Apology]]></title>
+      <description><![CDATA[2. Socratic Citizenship: Plato's Apology]]></description>
+      <pubDate>Fri, 01 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">002_2_socratic_citizenship_plato_s_apology_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/002_2_socratic_citizenship_plato_s_apology_mp3.mp3" length="21878252" type="audio/mpeg"/>
+      <itunes:duration>00:45:35</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[3. Socratic Citizenship: Plato's Crito]]></title>
+      <description><![CDATA[3. Socratic Citizenship: Plato's Crito]]></description>
+      <pubDate>Sat, 02 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">003_3_socratic_citizenship_plato_s_crito_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/003_3_socratic_citizenship_plato_s_crito_mp3.mp3" length="22682156" type="audio/mpeg"/>
+      <itunes:duration>00:47:15</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[4. Philosophers and Kings: Plato's Republic, I-II]]></title>
+      <description><![CDATA[4. Philosophers and Kings: Plato's Republic, I-II]]></description>
+      <pubDate>Sat, 02 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">004_4_philosophers_and_kings_plato_s_republic_i_ii_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/004_4_philosophers_and_kings_plato_s_republic_i_ii_mp3.mp3" length="22675820" type="audio/mpeg"/>
+      <itunes:duration>00:47:14</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[5. Philosophers and Kings: Plato's Republic, III-IV]]></title>
+      <description><![CDATA[5. Philosophers and Kings: Plato's Republic, III-IV]]></description>
+      <pubDate>Sun, 03 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">005_5_philosophers_and_kings_plato_s_republic_iii_iv_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/005_5_philosophers_and_kings_plato_s_republic_iii_iv_mp3.mp3" length="22701932" type="audio/mpeg"/>
+      <itunes:duration>00:47:18</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[6. Philosophers and Kings: Plato's Republic, V]]></title>
+      <description><![CDATA[6. Philosophers and Kings: Plato's Republic, V]]></description>
+      <pubDate>Sun, 03 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">006_6_philosophers_and_kings_plato_s_republic_v_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/006_6_philosophers_and_kings_plato_s_republic_v_mp3.mp3" length="21671660" type="audio/mpeg"/>
+      <itunes:duration>00:45:09</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[7. The Mixed Regime and the Rule of Law: Aristotle's Politics, I-III]]></title>
+      <description><![CDATA[7. The Mixed Regime and the Rule of Law: Aristotle's Politics, I-III]]></description>
+      <pubDate>Mon, 04 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">007_7_the_mixed_regime_and_the_rule_of_law_aristotle_s_politics_i_iii_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/007_7_the_mixed_regime_and_the_rule_of_law_aristotle_s_politics_i_iii_mp3.mp3" length="21005804" type="audio/mpeg"/>
+      <itunes:duration>00:43:46</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[8. The Mixed Regime and the Rule of Law: Aristotle's Politics, IV]]></title>
+      <description><![CDATA[8. The Mixed Regime and the Rule of Law: Aristotle's Politics, IV]]></description>
+      <pubDate>Mon, 04 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">008_8_the_mixed_regime_and_the_rule_of_law_aristotle_s_politics_iv_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/008_8_the_mixed_regime_and_the_rule_of_law_aristotle_s_politics_iv_mp3.mp3" length="23025452" type="audio/mpeg"/>
+      <itunes:duration>00:47:58</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[9. The Mixed Regime and the Rule of Law: Aristotle's Politics, VII]]></title>
+      <description><![CDATA[9. The Mixed Regime and the Rule of Law: Aristotle's Politics, VII]]></description>
+      <pubDate>Tue, 05 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">009_9_the_mixed_regime_and_the_rule_of_law_aristotle_s_politics_vii_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/009_9_the_mixed_regime_and_the_rule_of_law_aristotle_s_politics_vii_mp3.mp3" length="22180460" type="audio/mpeg"/>
+      <itunes:duration>00:46:13</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[10. New Modes and Orders: Machiavelli's The Prince, Chaps. 1-12]]></title>
+      <description><![CDATA[10. New Modes and Orders: Machiavelli's The Prince, Chaps. 1-12]]></description>
+      <pubDate>Tue, 05 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">010_10_new_modes_and_orders_machiavelli_s_the_prince_chaps_1_12_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/010_10_new_modes_and_orders_machiavelli_s_the_prince_chaps_1_12_mp3.mp3" length="17927852" type="audio/mpeg"/>
+      <itunes:duration>00:37:21</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[11. New Modes and Orders: Machiavelli's The Prince, Chaps. 13-26]]></title>
+      <description><![CDATA[11. New Modes and Orders: Machiavelli's The Prince, Chaps. 13-26]]></description>
+      <pubDate>Wed, 06 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">011_11_new_modes_and_orders_machiavelli_s_the_prince_chaps_13_26_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/011_11_new_modes_and_orders_machiavelli_s_the_prince_chaps_13_26_mp3.mp3" length="20866412" type="audio/mpeg"/>
+      <itunes:duration>00:43:28</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[12. The Sovereign State: Hobbes' Leviathan]]></title>
+      <description><![CDATA[12. The Sovereign State: Hobbes' Leviathan]]></description>
+      <pubDate>Wed, 06 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">012_12_the_sovereign_state_hobbes_leviathan_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/012_12_the_sovereign_state_hobbes_leviathan_mp3.mp3" length="21829676" type="audio/mpeg"/>
+      <itunes:duration>00:45:29</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[13. The Sovereign State: Hobbes' Leviathan]]></title>
+      <description><![CDATA[13. The Sovereign State: Hobbes' Leviathan]]></description>
+      <pubDate>Thu, 07 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">013_13_the_sovereign_state_hobbes_leviathan_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/013_13_the_sovereign_state_hobbes_leviathan_mp3.mp3" length="22265900" type="audio/mpeg"/>
+      <itunes:duration>00:46:23</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[14. The Sovereign State: Hobbes' Leviathan]]></title>
+      <description><![CDATA[14. The Sovereign State: Hobbes' Leviathan]]></description>
+      <pubDate>Thu, 07 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">014_14_the_sovereign_state_hobbes_leviathan_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/014_14_the_sovereign_state_hobbes_leviathan_mp3.mp3" length="21308204" type="audio/mpeg"/>
+      <itunes:duration>00:44:23</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[15. Constitutional Government: Locke's Second Treatise, 1-5]]></title>
+      <description><![CDATA[15. Constitutional Government: Locke's Second Treatise, 1-5]]></description>
+      <pubDate>Fri, 08 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">015_15_constitutional_government_locke_s_second_treatise_1_5_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/015_15_constitutional_government_locke_s_second_treatise_1_5_mp3.mp3" length="21444908" type="audio/mpeg"/>
+      <itunes:duration>00:44:41</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[16. Constitutional Government: Locke's Second Treatise, 7-12]]></title>
+      <description><![CDATA[16. Constitutional Government: Locke's Second Treatise, 7-12]]></description>
+      <pubDate>Fri, 08 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">016_16_constitutional_government_locke_s_second_treatise_7_12_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/016_16_constitutional_government_locke_s_second_treatise_7_12_mp3.mp3" length="21695084" type="audio/mpeg"/>
+      <itunes:duration>00:45:12</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[17. Constitutional Government: Locke's Second Treatise, 13-19]]></title>
+      <description><![CDATA[17. Constitutional Government: Locke's Second Treatise, 13-19]]></description>
+      <pubDate>Sat, 09 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">017_17_constitutional_government_locke_s_second_treatise_13_19_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/017_17_constitutional_government_locke_s_second_treatise_13_19_mp3.mp3" length="21690476" type="audio/mpeg"/>
+      <itunes:duration>00:45:11</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[18. Democracy and Participation: Rousseau's Discourse]]></title>
+      <description><![CDATA[18. Democracy and Participation: Rousseau's Discourse]]></description>
+      <pubDate>Sat, 09 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">018_18_democracy_and_participation_rousseau_s_discourse_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/018_18_democracy_and_participation_rousseau_s_discourse_mp3.mp3" length="21058220" type="audio/mpeg"/>
+      <itunes:duration>00:43:52</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[19. Democracy and Participation: Rousseau's Discourse]]></title>
+      <description><![CDATA[19. Democracy and Participation: Rousseau's Discourse]]></description>
+      <pubDate>Sun, 10 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">019_19_democracy_and_participation_rousseau_s_discourse_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/019_19_democracy_and_participation_rousseau_s_discourse_mp3.mp3" length="19965932" type="audio/mpeg"/>
+      <itunes:duration>00:41:36</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[20. Democracy and Participation: Rousseau's Social Contract, I-II]]></title>
+      <description><![CDATA[20. Democracy and Participation: Rousseau's Social Contract, I-II]]></description>
+      <pubDate>Sun, 10 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">020_20_democracy_and_participation_rousseau_s_social_contract_i_ii_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/020_20_democracy_and_participation_rousseau_s_social_contract_i_ii_mp3.mp3" length="19505132" type="audio/mpeg"/>
+      <itunes:duration>00:40:38</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[21. Democratic Statecraft: Tocqueville's Democracy in America]]></title>
+      <description><![CDATA[21. Democratic Statecraft: Tocqueville's Democracy in America]]></description>
+      <pubDate>Mon, 11 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">021_21_democratic_statecraft_tocqueville_s_democracy_in_america_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/021_21_democratic_statecraft_tocqueville_s_democracy_in_america_mp3.mp3" length="20193068" type="audio/mpeg"/>
+      <itunes:duration>00:42:04</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[22. Democratic Statecraft: Tocqueville's Democracy in America]]></title>
+      <description><![CDATA[22. Democratic Statecraft: Tocqueville's Democracy in America]]></description>
+      <pubDate>Mon, 11 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">022_22_democratic_statecraft_tocqueville_s_democracy_in_america_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/022_22_democratic_statecraft_tocqueville_s_democracy_in_america_mp3.mp3" length="18341612" type="audio/mpeg"/>
+      <itunes:duration>00:38:13</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[23. Democratic Statecraft: Tocqueville's Democracy in America]]></title>
+      <description><![CDATA[23. Democratic Statecraft: Tocqueville's Democracy in America]]></description>
+      <pubDate>Tue, 12 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">023_23_democratic_statecraft_tocqueville_s_democracy_in_america_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/023_23_democratic_statecraft_tocqueville_s_democracy_in_america_mp3.mp3" length="24270572" type="audio/mpeg"/>
+      <itunes:duration>00:50:34</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[24. In Defense of Politics]]></title>
+      <description><![CDATA[24. In Defense of Politics]]></description>
+      <pubDate>Tue, 12 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">024_24_in_defense_of_politics_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/smith_intro_to_political_philosophy/main/024_24_in_defense_of_politics_mp3.mp3" length="18730796" type="audio/mpeg"/>
+      <itunes:duration>00:39:01</itunes:duration>
+    </item>
+  </channel>
+</rss>
